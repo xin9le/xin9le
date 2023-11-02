@@ -2,6 +2,9 @@
 Console.WriteLine("Hello, Everyone!✨");
 ```
 
-![GitHub Stats](https://xin9le-github-readme-stats.vercel.app/api?username=xin9le&show_icons=true&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true)
 
-![Top Langs](https://xin9le-github-readme-stats.vercel.app/api/top-langs/?username=xin9le&count_private=true&layout=compact)
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xin9le&theme=transparent)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xin9le&theme=transparent)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xin9le&theme=transparent&utcOffset=9)
+![Top Langs by Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xin9le&theme=transparent)
+![Top Langs by Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xin9le&theme=transparent)
