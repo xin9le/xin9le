@@ -2,6 +2,8 @@
 Console.WriteLine("Hello, Everyone!✨");
 ```
 
+> [!Important]
+> [Resume.md](https://github.com/xin9le/xin9le/blob/main/Resume.md) is a rundown of my job history. Feel free to check it out if you're interested.
 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xin9le&theme=transparent)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xin9le&theme=transparent)
