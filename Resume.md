@@ -1,7 +1,5 @@
 # Personal Info
-
 **Takaaki Suzuki**
-
 - Web Site : [xin9le.net](https://xin9le.net/)
 - Technical Blog : [xin9le.net](https://blog.xin9le.net/)
 - Twitter : [@xin9le](https://x.com/xin9le)
@@ -14,17 +12,15 @@
 
 
 # Award
-
 [![MVP Logo](https://xin9le.blob.core.windows.net/assets/hatena-blog/images/mvp-logo.png)](https://mvp.microsoft.com/en-US/mvp/profile/21600ff3-3c9a-e411-93f2-9cb65495d3c4)
 
-- [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/mvp/profile/21600ff3-3c9a-e411-93f2-9cb65495d3c4) (July 2012 - June 2024)
+- [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/mvp/profile/21600ff3-3c9a-e411-93f2-9cb65495d3c4) (July 2012 - June 2025)
 - [Musician's Hackathon 2015, Grand Prize](https://ma2017.we-are-ma.jp/2015/09/ma11-musicians-hackathon-2015-by-mashup-awards/) - SHAKIN'
 - [SPAJAM 2016 Tokyo C, Grand Prize](https://www.4gamer.net/games/999/G999904/20160516067/) - Ohgirix!
 
 
 # Skill Set
-
-- Over 15 years of C# development experience
+- Over 17 years of C# development experience
     - Extreamly knowledge of C#/.NET
 - Totally covers (desktop, mobile, web)
 - Evangelism of C#/.NET technology
@@ -115,26 +111,20 @@
 # Career
 
 ## Yayoi Co., Ltd. | Oct 2023 - Now
-
 **Technical Advisor / Application Engineer**
-
 - As a freelance developer
 - Remote work in Fukui (company located at Akihabara, Tokyo)
 
 
 ## flaggs, Inc. | Nov 2021 - Jul 2023
-
 **Technical Advisor / Application Engineer**
-
 - As a freelance developer
 - Remote work in Fukui (company located at Gotanda, Tokyo)
 - Work as a technical advisor for [fingger](https://fingger.com/)
 
 
 ## Sigma Consulting Co., Ltd. | Feb 2019 - Now
-
 **CRO / Lead Engineer**
-
 - Remote work in Fukui (company located at Ningyo-cho, Tokyo)
 - Work as a developer and consultant (mainly EC services)
     - [Gatebox Developer Platform](https://updated.sigmact.com/interview/gatebox/interview-gatebox/)
@@ -145,9 +135,7 @@
 
 
 ## A certain startup company | Jul 2018 - Jan 2019
-
 **Lead Engineer / Solution Architect**
-
 - A service to change the food industry
     - C#, ASP.NET Core MVC, Azure, Docker, Xamarin, TypeScript
     - Runs on Docker/Linux on Azure Web Apps
@@ -155,9 +143,7 @@
 
 
 ## GMG, Inc. (MYNET Group) | Apr 2018 - Jun 2018
-
 **Application Engineer**
-
 - Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
     - C#/.NET, ASP.NET MVC, TypeScript, LESS, AWS, and so on
 - Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
@@ -166,9 +152,7 @@
 
 
 ## Grani, Inc. | Sep 2015 - Mar 2018
-
 **Application Engineer / XR Engineer**
-
 - Develop and maintain [Valhalla Gate](http://official.valhalla-gate.jp/) (mobile social game)
     - C#/.NET, ASP.NET MVC, TypeScript, LESS, AWS, and so on
 - Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
@@ -188,9 +172,7 @@
 
 
 ## ALL CONNECT Co.,Ltd | Mar 2014 - Sep 2015
-
 **Technical Specialist**
-
 - Develop in-house realtime monitoring system
 - Develop in-house accounts receivable management system
 - Develop in-house Google Adwords automatic analysis tool
@@ -199,18 +181,14 @@
 
 
 ## Fukui Computer Holdings, Inc. (Fukui Computer Group) | Sep 2012 - Mar 2014
-
 **Software Engineer**
-
 - Develop in-house CTI (= Computer Telephony Integration) system using cutting edge technologies at the time
     - Asterisk, async/await, Rx.NET, ASP.NET SignalR, ASP.NET Web API, WPF, SQL Server, and so on
 
 
 
 ## Fukui Computer, Inc. (Fukui Computer Group) | Apr 2007 - Aug 2012
-
 **Software Engineer**
-
 - Develop [EX-TREND 武蔵 Series](https://const.fukuicompu.co.jp/products/extrendmusashi/index.html) (Construction CAD) and [BLUETREND Series](https://const.fukuicompu.co.jp/products/trendone/index.html) (Survey CAD) using C++/C#
     - 3D programming using DirectX / OpenGL
     - Desktop application installer
@@ -220,5 +198,4 @@
 
 
 # Final Education
-
 Bachelor of Engineering, [Kanazawa University](https://www.kanazawa-u.ac.jp/), Ishikawa, Japan (2007)
