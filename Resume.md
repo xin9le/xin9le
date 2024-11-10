@@ -26,7 +26,9 @@
 - Evangelism of C#/.NET technology
 - Good at asynchronus, reactive, bidirectional communication, XR programming
 
-
+<details>
+    <summary>Knowledge Levels</summary>
+    
 | Programming Language | Knowledge Level |
 |---|---|
 | C# | :star::star::star::star::star: |
@@ -105,18 +107,34 @@
 |---|---|
 | Japanese | :star::star::star::star::star: |
 | English | :star::star: |
+</details>
 
 
 
 # Career
+| Company | From | To | Role |
+|---|---|---|---|
+| Yayoi Co., Ltd. | 2023/10 |  | Technical Advisor |
+| flaggs, Inc. | 2021/8 | 2023/7 | Technical Advisor / Application Engineer |
+| Sigma Consulting Co., Ltd. | 2019/2 |  | CRO / Lead Engineer |
+| A certain startup company | 2018/7 | 2019/1 | Lead Engineer / Solution Architect |
+| GMG, Inc. (MYNET Group) | 2018/4 | 2018/6 | Application Engineer |
+| Grani, Inc. | 2015/9 | 2018/3 | Application Engineer / XR Engineer |
+| ALL CONNECT Co.,Ltd | 2014/3 | 2015/9 | Technical Specialist |
+| Fukui Computer Holdings, Inc. | 2012/9 | 2014/4 | Software Engineer |
+| Fukui Computer, Inc. | 2007/4 | 2012/8 | Software Engineer |
+
+
+<details>
+    <summary>Details</summary>
 
 ## Yayoi Co., Ltd. | Oct 2023 - Now
-**Technical Advisor / Application Engineer**
+**Technical Advisor**
 - As a freelance developer
 - Remote work in Fukui (company located at Akihabara, Tokyo)
 
 
-## flaggs, Inc. | Nov 2021 - Jul 2023
+## flaggs, Inc. | Aug 2021 - Jul 2023
 **Technical Advisor / Application Engineer**
 - As a freelance developer
 - Remote work in Fukui (company located at Gotanda, Tokyo)
@@ -133,13 +151,11 @@
     - etc.
 
 
-
 ## A certain startup company | Jul 2018 - Jan 2019
 **Lead Engineer / Solution Architect**
 - A service to change the food industry
     - C#, ASP.NET Core MVC, Azure, Docker, Xamarin, TypeScript
     - Runs on Docker/Linux on Azure Web Apps
-
 
 
 ## GMG, Inc. (MYNET Group) | Apr 2018 - Jun 2018
@@ -148,7 +164,6 @@
     - C#/.NET, ASP.NET MVC, TypeScript, LESS, AWS, and so on
 - Develop and maintain [Black Night and White Devil](https://kuro-kishi.jp/) (mobile social game)
     - C#/.NET, gRPC, UniRx, Unity
-
 
 
 ## Grani, Inc. | Sep 2015 - Mar 2018
@@ -170,7 +185,6 @@
     - [Alex Kipman and Palmer Luckey :heart: this product](https://twitter.com/akipman/status/842090464656293889)
 
 
-
 ## ALL CONNECT Co.,Ltd | Mar 2014 - Sep 2015
 **Technical Specialist**
 - Develop in-house realtime monitoring system
@@ -179,12 +193,10 @@
 - AWS resource management
 
 
-
 ## Fukui Computer Holdings, Inc. (Fukui Computer Group) | Sep 2012 - Mar 2014
 **Software Engineer**
 - Develop in-house CTI (= Computer Telephony Integration) system using cutting edge technologies at the time
     - Asterisk, async/await, Rx.NET, ASP.NET SignalR, ASP.NET Web API, WPF, SQL Server, and so on
-
 
 
 ## Fukui Computer, Inc. (Fukui Computer Group) | Apr 2007 - Aug 2012
@@ -195,6 +207,7 @@
     - Microsoft Excel Add-in using VSTO
     - Build batch
 
+</details>
 
 
 # Final Education
