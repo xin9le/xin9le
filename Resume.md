@@ -114,7 +114,7 @@
 # Career
 | Company | From | To | Role |
 |---|---|---|---|
-| Yayoi Co., Ltd. | 2023/10 |  | Technical Advisor |
+| Yayoi Co., Ltd. | 2023/10 | 2024/11 | Technical Advisor |
 | flaggs, Inc. | 2021/8 | 2023/7 | Technical Advisor / Application Engineer |
 | Sigma Consulting Co., Ltd. | 2019/2 |  | CRO / Lead Engineer |
 | A certain startup company | 2018/7 | 2019/1 | Lead Engineer / Solution Architect |
