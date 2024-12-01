@@ -112,10 +112,9 @@
 
 
 # Career
+## Main job
 | Company | From | To | Role |
 |---|---|---|---|
-| Yayoi Co., Ltd. | 2023/10 | 2024/11 | Technical Advisor |
-| flaggs, Inc. | 2021/8 | 2023/7 | Technical Advisor / Application Engineer |
 | Sigma Consulting Co., Ltd. | 2019/2 |  | CRO / Lead Engineer |
 | A certain startup company | 2018/7 | 2019/1 | Lead Engineer / Solution Architect |
 | GMG, Inc. (MYNET Group) | 2018/4 | 2018/6 | Application Engineer |
@@ -125,21 +124,9 @@
 | Fukui Computer, Inc. | 2007/4 | 2012/8 | Software Engineer |
 
 
+
 <details>
     <summary>Details</summary>
-
-## Yayoi Co., Ltd. | Oct 2023 - Nov 2024
-**Technical Advisor**
-- As a freelance developer
-- Remote work in Fukui (company located at Akihabara, Tokyo)
-
-
-## flaggs, Inc. | Aug 2021 - Jul 2023
-**Technical Advisor / Application Engineer**
-- As a freelance developer
-- Remote work in Fukui (company located at Gotanda, Tokyo)
-- Work as a technical advisor for [fingger](https://fingger.com/)
-
 
 ## Sigma Consulting Co., Ltd. | Feb 2019 - Now
 **CRO / Lead Engineer**
@@ -206,6 +193,32 @@
     - Desktop application installer
     - Microsoft Excel Add-in using VSTO
     - Build batch
+
+</details>
+
+
+
+## Side job
+| Company | From | To | Role |
+|---|---|---|---|
+| Yayoi Co., Ltd. | 2023/10 | 2024/11 | Technical Advisor |
+| flaggs, Inc. | 2021/8 | 2023/7 | Technical Advisor / Application Engineer |
+
+
+<details>
+    <summary>Details</summary>
+
+## Yayoi Co., Ltd. | Oct 2023 - Nov 2024
+**Technical Advisor**
+- As a freelance developer
+- Remote work in Fukui (company located at Akihabara, Tokyo)
+
+
+## flaggs, Inc. | Aug 2021 - Jul 2023
+**Technical Advisor / Application Engineer**
+- As a freelance developer
+- Remote work in Fukui (company located at Gotanda, Tokyo)
+- Work as a technical advisor for [fingger](https://fingger.com/)
 
 </details>
 
