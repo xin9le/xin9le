@@ -128,7 +128,7 @@
 <details>
     <summary>Details</summary>
 
-## Yayoi Co., Ltd. | Oct 2023 - Now
+## Yayoi Co., Ltd. | Oct 2023 - Nov 2024
 **Technical Advisor**
 - As a freelance developer
 - Remote work in Fukui (company located at Akihabara, Tokyo)
