@@ -14,7 +14,7 @@
 # Award
 [![MVP Logo](https://xin9le.blob.core.windows.net/assets/hatena-blog/images/mvp-logo.png)](https://mvp.microsoft.com/en-US/mvp/profile/21600ff3-3c9a-e411-93f2-9cb65495d3c4)
 
-- [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/mvp/profile/21600ff3-3c9a-e411-93f2-9cb65495d3c4) (July 2012 - June 2026)
+- [Microsoft MVP for Developer Technologies](https://mvp.microsoft.com/en-US/mvp/profile/21600ff3-3c9a-e411-93f2-9cb65495d3c4) (July 2012 - June 2027)
 - [Musician's Hackathon 2015, Grand Prize](https://ma2017.we-are-ma.jp/2015/09/ma11-musicians-hackathon-2015-by-mashup-awards/) - SHAKIN'
 - [SPAJAM 2016 Tokyo C, Grand Prize](https://www.4gamer.net/games/999/G999904/20160516067/) - Ohgirix!
 
@@ -115,6 +115,7 @@
 ## Main job
 | Company | From | To | Role |
 |---|---|---|---|
+| BuriKaigi LLC | 2026/7 |  | Managing Member |
 | Sigma Consulting Co., Ltd. | 2019/2 |  | CRO / Lead Engineer |
 | A certain startup company | 2018/7 | 2019/1 | Lead Engineer / Solution Architect |
 | GMG, Inc. (MYNET Group) | 2018/4 | 2018/6 | Application Engineer |
@@ -127,14 +128,17 @@
 
 <details>
     <summary>Details</summary>
+    
+## BuriKaigi LLC | Jul 2026 - Now
+**Managing Member**
+- Organize a technical conference called `BuriKaigi`
+
 
 ## Sigma Consulting Co., Ltd. | Feb 2019 - Now
 **CRO / Lead Engineer**
 - Remote work in Fukui (company located at Ningyo-cho, Tokyo)
 - Work as a developer and consultant (mainly EC services)
     - [Gatebox Developer Platform](https://updated.sigmact.com/interview/gatebox/interview-gatebox/)
-    - SABON Japan
-    - Dainese Japan
     - etc.
 
 
