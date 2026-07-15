@@ -20,11 +20,11 @@
 
 
 # Skill Set
-- Over 17 years of C# development experience
+- Over 18 years of C# development experience
     - Extreamly knowledge of C#/.NET
 - Totally covers (desktop, mobile, web)
 - Evangelism of C#/.NET technology
-- Good at asynchronus, reactive, bidirectional communication, XR programming
+- Good at asynchronus, reactive, bidirectional communication
 
 <details>
     <summary>Knowledge Levels</summary>
@@ -62,7 +62,7 @@
 | DirectX | :star::star: |
 | OpenGL | :star: |
 | gRPC / MagicOnion | :star::star::star::star: |
-| UniRx | :star::star::star: |
+| UniRx / R3 | :star::star::star: |
 | KnockoutJS | :star::star::star::star: |
 | Vue.js | :star::star::star: |
 
